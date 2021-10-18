@@ -1,4 +1,4 @@
-# Spotify-vs-Lightspeed-Balance-Sheet-Analysis-Managerial-Finance-and-Accounting-Report
+# Investment Analysis of Shopify and Lightspeed in Canada - Managerial Finance and Accounting Report
 
 ## A. Introduction	
 
