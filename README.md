@@ -30,7 +30,11 @@ Overall lower profit margin means the company can have more returning customers 
 
 ### 3/ Return On Assets and Return On Equity
 
+#### ROE
+
 Shopify’s ROE has improved from 2019 to 2020 which is mainly because the company has made profits in 2020 compared to a loss in 2019. Lightspeed’s ROE has improved year on year mainly because the equity has increased in 2020, probably due to a share issue. losses have increased despite the share issuance, which is not a good sign.
+
+#### ROA
 
 Shopify’s ROA has improved year on year mainly because the company has become profitable in 2020 compared to 2019, and assets have increased. Lightspeed’s ROA has improved but this is mainly because of the increase in assets and not due to reduction in losses or profits. This shows the company is using the shareholders funds to expand the company but still the company is making losses at the end of day. Company should focus on cost controls and analyse its pricing with its customers to ensure it's profitable.
 
