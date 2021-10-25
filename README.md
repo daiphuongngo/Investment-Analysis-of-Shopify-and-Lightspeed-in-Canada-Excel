@@ -1,5 +1,16 @@
 # Investment Analysis of Shopify and Lightspeed in Canada - Managerial Finance and Accounting Report
 
+## Category:
+
+- E-commerce / E-selling
+
+- Application
+
+- Retail
+
+- Software
+
+
 ## A. Introduction	
 
 Our report is an investment analysis on Shopify and Lightspeed to determine which company in the same e-commerce industry is more worthy of investing in. Shopify Inc. is an international e-commerce firm providing online stores and retail point-of-sale systems with its headquarter in Ottawa, Ontario, Canada. Lightspeed is also a provider for a point-of-sale and e-commerce platform headquartered in Montreal, Quebec, Canada. In this report, we have analyzed both firms’ balance sheets to calculate different aspects: Growth and Profitability, Solvency, Debt, Efficiency, and decided which firm would be chosen to move forward to investment.
