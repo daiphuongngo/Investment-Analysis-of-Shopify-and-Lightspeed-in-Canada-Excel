@@ -22,6 +22,8 @@ The report is an investment analysis on Shopify and Lightspeed to determine whic
 
 ### 1/ Growth and Profitability	
 
+![Growth and Profitability](https://user-images.githubusercontent.com/70437668/139201221-087edf63-85bf-4eb3-8eca-44f5ab691d7c.jpg)
+
 #### Revenue Growth	
 
 Looking at the Revenue Growth, the revenue, after eliminating the costs of revenue, of Shopify grew at a slightly higher percentage than Lightspeeds, 85.63% and 83.80%, respectively. However, the net revenues of Shopify generally contribute more significant amounts at $2,929,491 in 2021 and $1,578,173 in 2020 while the revenues of Lightspeed generate much lesser amounts at $221,728 in 2021 and $120,637 in 2020. All in all, we can conclude that Shopify performed better in terms of Revenue Growth than Lightspeed. However, we have to look at other ratios to determine their actual growth and strengthen our statement. That leads to our next formula of Net Profit Growth which contains costs of both companies resulting in net profit.
@@ -31,6 +33,8 @@ Looking at the Revenue Growth, the revenue, after eliminating the costs of reven
 Ultimately, the objective of this Net Profit Growth ratio is to demonstrate if there was an improvement or loss of the firm's profit.  Net Profit also means Net Income or Net Loss. Shopify experienced a remarkable increase of up to 355.93% between 2 years with 2021 again at $319,509 despite a negative net profit (net loss) at -$124,842 in 2020. Meanwhile, Lightspeed's net profit continued to suffer two losses at -132.16% in both years: the first loss in 2020 at -$53,531 and the second one in 2021 at -$124,278. Therefore, we can conclude that Shopify performed better than Lightspeed regarding Net Profit Growth.
 
 ### 2/ Gross & Net Profit Margin
+
+![Gross   Net Profit Margin](https://user-images.githubusercontent.com/70437668/139201236-8f2668ca-2b4e-416e-aab6-2dd5befebc49.jpg)
 
 #### Gross Profit Margin	
 
@@ -44,6 +48,8 @@ Overall lower profit margin means the company can have more returning customers 
 
 ### 3/ Return On Assets and Return On Equity
 
+![ROE and ROA](https://user-images.githubusercontent.com/70437668/139201245-af81e9ee-bbb9-4899-b9c6-c181793a32e2.jpg)
+
 #### ROE
 
 Shopify’s ROE has improved from 2019 to 2020 which is mainly because the company has made profits in 2020 compared to a loss in 2019. Lightspeed’s ROE has improved year on year mainly because the equity has increased in 2020, probably due to a share issue. losses have increased despite the share issuance, which is not a good sign.
@@ -54,11 +60,15 @@ Shopify’s ROA has improved year on year mainly because the company has become 
 
 ### 4/ Solvency	
 
+![NWC](https://user-images.githubusercontent.com/70437668/139201543-42ef029e-8a2e-4d2a-8db5-09a011107d68.jpg)
+
 #### Net Working Capital	
 
 Many of the current assets for Shopify are liquid only. Which is the reason why both Current ratio and quick ratio are the same value. Shopify is a service company for many small businesses therefore inventory will not be included in the quick ratio calculation. Lastly Shopify is exceedingly wealthy to take care of its current liabilities 15 times over.
 
 Since Shopify has a high working capital it means that it can fulfill short term financial obligations with ease. This could also infer that Shopify is very efficient with their day to day expenses.
+
+![Solvency](https://user-images.githubusercontent.com/70437668/139201279-02671cdc-671e-4365-b0e5-eed503971460.jpg)
 
 #### Current Ratio	
 
@@ -71,18 +81,23 @@ With lightspeed being a software company the inventory under current assets will
 
 ### 5/ Debt	
 
+![Total Debt Ratio](https://user-images.githubusercontent.com/70437668/139201557-0da2ca36-8e7f-43eb-8dcc-a372bc033dd6.jpg)
+
 #### Total Debt Ratio	
 
 TOTAL DEBT RATIO The total debt ratio takes into account all debts of all maturities to all creditors. It can be defined in several ways, the easiest of which is:
 
 Total debt ratio = [ Total assets − Total equity ] /Total assets = [ $7762905 − 6400723 ] / $7762905 = 0.175 for Shopify and Similarly [$2,105,319-$1,934,283]/$2,105,319 = 0.08 for Lightspeed.
 
+![TIE Ratio](https://user-images.githubusercontent.com/70437668/139201576-4427c680-718e-44ad-98ff-991b4a989de8.jpg)
 
 #### Time Interest Earned	
 
 Another measure would be the time interest earned ratio known as the TIE ratio for short as you can see Shopify has a greater TIE ratio compared to Lightspeed. Therefore, Shopify is able to meet short-term debt priorities while lightspeed is making a loss by not meeting its debt obligations. This is due to Lightspeed’s operating income not exceeding its current expenses. TIE Ratio can be negative. If it's negative, then it means the company is unable to pay the creditors. As per the Total Debt Ratio and the TIE Ratio, we conclude that Shopify is a better company to invest in.
 
 ### 6/ Efficiency	
+
+![Efficiency of Days' Sales in Receivables   Inventory](https://user-images.githubusercontent.com/70437668/139201592-b8beedad-b329-42c4-873b-c80d8a77bc6b.jpg)
 
 #### Days’ Sales in Inventory	
 
@@ -91,6 +106,8 @@ Days sales in inventory are when the number of days in a year is divided by inve
 From the income statement for Shopify, we have taken the value of Costs of Goods sold as the cost of revenues which was the cost of merchant solutions and the costs of subscription solutions, in case of Lightspeed, the Cost of goods sold has been taken from the income statement under the head Direct costs of Revenues.
 
 Because Shopify is an e-commerce service company, the Inventory of any goods is not mentioned either in the Income statement or the balance sheet of the company so, the Day’s sale in Inventory is not available for Shopify, but Inventory is available for Lightspeed in the Balance sheet and accordingly, the values have been calculated and Days sale in Inventory for Lightspeed = 365 / Inventory turnover = 365 / 60.03 = 6.08.
+
+![Efficiency of Receivables   Inventory Turnover](https://user-images.githubusercontent.com/70437668/139201619-c1cc8dcc-f6ff-4087-8a7e-a6b84ddca988.jpg)
 
 #### Days’ Sales in Receivables	
 
